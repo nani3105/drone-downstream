@@ -284,3 +284,4 @@ func logParams(params map[string]string, paramsEnv []string) {
 		}
 	}
 }
+

@@ -274,7 +274,7 @@ steps:
     dockerfile: docker/Dockerfile.linux.arm
     password:
       from_secret: docker_password
-    repo: plugins/downstream
+    repo: niranjankurra / downstream
     username:
       from_secret: docker_username
   when:
